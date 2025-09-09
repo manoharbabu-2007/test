@@ -1,0 +1,45 @@
+public static async Task SendExpoPushNotificationAsync()
+{
+    try
+    {
+        var payload = new ExpoPushPayload
+        {
+            To = "ExponentPushToken[MWD4TeBsm19dxr8sv_dSPB]",
+            Title = "Hello from",
+            Body = "This is a test push notification",
+            Sound = "default",
+            Data = new { key1 = "someValue", key2 = "someValue" },
+            Ttl = 3600,
+            Priority = "high",
+            Badge = 1,
+            ChannelId = "default",
+            Subtitle = "Optional subtitle",
+            MutableContent = true
+        };
+
+        var jsonString = JsonConvert.SerializeObject(payload, new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore });
+
+        System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+
+        using (var client = new HttpClient())
+        {
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            //client.DefaultRequestHeaders.Add("Accept-encoding", "gzip, deflate");
+
+            client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", "q0OimSW4WWjF8zVWN2YXqvSM_pHeJTAVSa12B6Kg");
+
+            var content = new StringContent(jsonString, Encoding.UTF8, "application/json");
+            var response = await client.PostAsync(@"https://exp.host/--/api/v2/push/send", content);
+            response.EnsureSuccessStatusCode();
+            var responseBody = await response.Content.ReadAsStringAsync();
+
+            //Console.WriteLine($"Status: {response.StatusCode}");
+            //Console.WriteLine($"Response: {responseBody}");
+        }
+    }
+    catch (Exception ex)
+    {
+        //Console.WriteLine(ex);
+    }
+}
