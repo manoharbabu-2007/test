@@ -1,0 +1,530 @@
+
+                    <meta http-equiv=Content-Type content='text/html; charset=utf-8'>
+                    <h4 align=center style='color: red; background-color: lightgray;font-weight: bold;width: 500px'> Profiles </h4>
+
+                        <TABLE style='border-collapse: collapse;width: 100rem;'>
+                        <TR>
+                        <TD style='border-collapse: collapse;width:1000px;padding-bottom: 1rem'>
+                        <TABLE style='border: 1px solid black;border-collapse: collapse;min-width: 500px'>
+                        <TR>
+                        <TH style='border: 1px solid black;border-collapse: collapse;background: lightgray;color: indianred;'>User Name</TH>
+                        <TH style='border: 1px solid black;border-collapse: collapse;background: lightgray;color: indianred;'>Remarks</TH>
+                        </TR>
+                        <TR>
+                        <TD style='border: 1px solid black;border-collapse: collapse;'>ESS Profile</TD>
+                        <TD style='border: 1px solid black;border-collapse: collapse;'>ESS Profile</TD>
+                        </TR>
+                        </TABLE>
+                                <h4 align=left style='color: green; background-color: lightgray;font-weight: bold;width: 500px'> Modules </h4>
+                                <div style='min-width: 500px'></div>
+                                <TABLE style='border: 1px solid black;border-collapse: collapse;min-width: 500px'>
+                                <TR>
+
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>Module Name </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Access </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Add </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Edit </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Delete </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Save </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Print </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Reject </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Update </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Clone </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Export </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Send </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Preview </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Customize </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Email Id </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Import </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Cancel Transaction </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Save And Approve </TH>
+                    <TH style='color: red;border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> Authorize </TH>
+                    </TR>
+
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Recruitment</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Manpower Budget </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Manpower Planning </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Job Opening </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>HR Post </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Candidate </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>OnBoarding </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Employee</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Employee Master </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Leaves</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Leave Application </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Return From Leave </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Loans</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Loan Application </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Shifts & Attendance</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Time Sheet </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Time Sheet Top-ups </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>OT Form </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Payroll</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Single Employee Payroll </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Training</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Employee Training Feedback ESS </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Online Training ESS </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+
+</TR>
+<TR>
+
+
+                    <TD align=center style='border-collapse: collapse;font-weight: bold;color: indianred;'>Appraisal</TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Initiate Appraisal </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+
+</TR>
+<TR>
+
+
+                 <TD align=left style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;color:green;'>Appraisal Sheet ESS </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'>True </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+                <TD style='border: 1px solid black;border-collapse: collapse;font-weight: bold;min-width: 9rem;'> </TD>
+
+</TR>
+
+</TABLE>
+</TD>
+                                </TR>
+                          </TABLE>
+<div style='min-width: 500px'>&nbsp; </div>
+
