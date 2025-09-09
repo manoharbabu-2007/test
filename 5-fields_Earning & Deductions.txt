@@ -1,0 +1,303 @@
+-----5 earning fields ------
+"p_4": {
+      "type": "static",
+      "content": "Consider In Early/Late Return",
+      "description": "Select Consider In Early/Late Return.",
+      "columns": {
+        "container": 5,
+        "label": 12,
+        "wrapper": 12
+      },
+      "tag": "p"
+    },
+    // "iEarlyorLateCB": {
+    //   "type": "toggle",
+    //   "columns": {
+    //     "container": 2,
+    //     "label": 12,
+    //     "wrapper": 12
+    //   },
+    //   "align": "right",
+    //   "default": true
+    // },
+    "quote_3": {
+      "name": "quote",
+      "type": "static",
+      "tag": "blockqoute",
+      "builder": {
+        "type": "quote",
+        "label": "Quote"
+      },
+      "columns": {
+        "container": 2
+      }
+    },
+    "p_5": {
+      "type": "static",
+      "content": "Evaluate One Time In Pro Rata Calculation",
+      "description": "Select Evaluate One Time In Pro Rata Calculation.",
+      "columns": {
+        "container": 5,
+        "label": 12,
+        "wrapper": 12
+      },
+      "tag": "p"
+    },
+    // "EvaluateonetimeinProrataCalculation": {
+    //   "type": "toggle",
+    //   "columns": {
+    //     "container": 2,
+    //     "label": 12,
+    //     "wrapper": 12
+    //   },
+    //   "align": "right",
+    //   "default": true
+    // },
+    "quote_4": {
+      "name": "quote",
+      "type": "static",
+      "tag": "blockqoute",
+      "builder": {
+        "type": "quote",
+        "label": "Quote"
+      },
+      "columns": {
+        "container": 2
+      }
+    },
+    "p_6": {
+      "type": "static",
+      "content": "Evaluate One Time In A Month",
+      "description": "Select Evaluate One Time In A Month.",
+      "columns": {
+        "container": 5,
+        "label": 12,
+        "wrapper": 12
+      },
+      "tag": "p"
+    },
+    // "EvaluateonetimeForMonth": {
+    //   "type": "toggle",
+    //   "columns": {
+    //     "container": 2,
+    //     "label": 12,
+    //     "wrapper": 12
+    //   },
+    //   "align": "right",
+    //   "default": true
+    // },
+    "quote_5": {
+      "name": "quote",
+      "type": "static",
+      "tag": "blockqoute",
+      "builder": {
+        "type": "quote",
+        "label": "Quote"
+      },
+      "columns": {
+        "container": 2
+      }
+    },
+    "p_7": {
+      "type": "static",
+      "content": "Do Not Add To Net",
+      "description": "Select Do Not Add To Net.",
+      "columns": {
+        "container": 5,
+        "label": 12,
+        "wrapper": 12
+      },
+      "tag": "p"
+    },
+    // "DontAddToNetCB": {
+    //   "type": "toggle",
+    //   "columns": {
+    //     "container": 2,
+    //     "label": 12,
+    //     "wrapper": 12
+    //   },
+    //   "align": "right",
+    //   "default": true
+    // },
+    "quote_6": {
+      "name": "quote",
+      "type": "static",
+      "tag": "blockqoute",
+      "builder": {
+        "type": "quote",
+        "label": "Quote"
+      },
+      "columns": {
+        "container": 2
+      }
+    },
+    "p_8": {
+      "type": "static",
+      "content": "Post Into FA",
+      "description": "Post Into FA.",
+      "columns": {
+        "container": 5,
+        "label": 12,
+        "wrapper": 12
+      },
+      "tag": "p"
+    },
+    // "PostIntoFA": {
+    //   "type": "toggle",
+    //   "columns": {
+    //     "container": 2,
+    //     "label": 12,
+    //     "wrapper": 12
+    //   },
+    //   "align": "right",
+    //   "default": true
+    // },
+    "quote_7": {
+      "name": "quote",
+      "type": "static",
+      "tag": "blockqoute",
+      "builder": {
+        "type": "quote",
+        "label": "Quote"
+      },
+      "columns": {
+        "container": 2
+      }
+    },
+	
+	
+	----5 deduction fields------
+	
+	
+	 "p_4": {
+            "type": "static",
+            "content": "Consider In Early/Late Return",
+            "description": "",
+            "columns": {
+              "container": 5,
+              "label": 12,
+              "wrapper": 12
+            },
+            "tag": "p"
+          },
+          
+          "MiscValues[6]": {
+            "type": "toggle",
+            "columns": {
+              "container": 2,
+              "label": 12,
+              "wrapper": 12
+            },
+            "align": "right",
+            "default": true
+          },
+          "MiscValues[6]_1": {
+            "columns": {
+              "container": 2
+            }
+          },
+        "p_5": {
+            "type": "static",
+            "content": "Evaluate One Time In Pro Rata Calculation",
+            "description": "",
+            "columns": {
+              "container": 5,
+              "label": 12,
+              "wrapper": 12
+            },
+            "tag": "p"
+          },
+          
+          "MiscValues[7]": {
+            "type": "toggle",
+            "columns": {
+              "container": 2,
+              "label": 12,
+              "wrapper": 12
+            },
+            "align": "right",
+            "default": true
+          },
+          "MiscValues[7]_1": {
+            "columns": {
+              "container": 2
+            }
+          },
+          "p_6": {
+            "type": "static",
+            "content": "Evaluate One Time In A Month",
+            "description": "",
+            "columns": {
+              "container": 5,
+              "label": 12,
+              "wrapper": 12
+            },
+            "tag": "p"
+          },
+          "MiscValues[8]": {
+            "type": "toggle",
+            "columns": {
+              "container": 2,
+              "label": 12,
+              "wrapper": 12
+            },
+            "align": "right",
+            "default": true
+          },
+          "MiscValues[8]_1": {
+            "columns": {
+              "container": 2
+            }
+          },
+          "p_7": {
+            "type": "static",
+            "content": "Do Not Add To Net",
+            "description": "",
+            "columns": {
+              "container": 5,
+              "label": 12,
+              "wrapper": 12
+            },
+            "tag": "p"
+          },
+          "MiscValues[0]": {
+            "type": "toggle",
+            "columns": {
+              "container": 2,
+              "label": 12,
+              "wrapper": 12
+            },
+            "align": "right",
+            "default": true
+          },
+          "MiscValues[0]_1": {
+            "columns": {
+              "container": 2
+            }
+          },
+          "p_8": {
+            "type": "static",
+            "content": "Post Into FA",
+            "description": "",
+            "columns": {
+              "container": 5,
+              "label": 12,
+              "wrapper": 12
+            },
+            "tag": "p"
+          },
+          "MiscValues[2]": {
+            "type": "toggle",
+            "columns": {
+              "container": 2,
+              "label": 12,
+              "wrapper": 12
+            },
+            "align": "right",
+            "default": true
+          },
+          "MiscValues[2]_1": {
+            "columns": {
+              "container": 2
+            }
+          },
