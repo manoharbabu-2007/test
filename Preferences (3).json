@@ -1,0 +1,78 @@
+{
+  "PayFrequencyDS": {
+    "payFrequencyDetails": {
+      "iStartDate": 1,
+      "iWorkingDays": 0,
+      "iMonthEndDate": 1,
+      "iCutOffDay": "56",
+      "sName": null,
+      "sCode": null
+    }
+  },
+  "ListAPIPreferencesDS": {
+    "APIPreferencesDS": [
+      {
+        "ComponentsDS": {
+          "sName": "daily",
+          "iType": 0
+        },
+        "DailyInputDS": {
+          "sName": " Default Daily Input",
+          "sDescription": "sDes",
+          "IsDefault": "true",
+          "list_dailyInput_DetailsDS": [
+            {
+              "DailyInput_DetailsDS": {
+                "select": "daily",
+                "iInputType": 1,
+                "iIsRemarks": 0,
+                "iEvaluteFormulaOn": 1,
+                "iEvaluteSiteType": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "ComponentsDS": {
+          "sName": "pp",
+          "iType": 1
+        },
+        "MonthlyInputDS": {
+          "sName": "Default_Monthly",
+          "sDescription": "Monthly_Inputs",
+          "IsDefault": "true",
+          "monthlyInput_DetailsDSList": [
+            {
+              "MonthlyInput_DetailsDS": {
+                "select": "pp",
+                "monthly_iToCalculate": 1,
+                "monthly_iProvisionForRemarks": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "ComponentsDS": {
+          "sName": "hh",
+          "iType": 1
+        },
+        "MonthlyInputDS": {
+          "sName": "Default_Monthly",
+          "sDescription": "Monthly_Inputs",
+          "IsDefault": "true",
+          "monthlyInput_DetailsDSList": [
+            {
+              "MonthlyInput_DetailsDS": {
+                "select": "hh",
+                "monthly_iToCalculate": 0,
+                "monthly_iProvisionForRemarks": 1
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
