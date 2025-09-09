@@ -1,0 +1,5 @@
+select sName,sCode,sLandLordPan from tuPay_EmpDeclaration_Details  decleration 
+inner join tPay_HraEmpDeclaration hra on decleration.iTransId=hra.iEmpDeclDetailsId
+inner join mPay_Employee emp on decleration.iEmpId= emp.iMasterId	
+where dDateOfApplicable= (select max(dDateOfApplicable) from tuPay_EmpDeclaration_Details where iEmpId=decleration.iEmpId and iFinancialYear=decleration.iFinancialYear)
+and iFinancialYear=(select iTransId from vPay_AssessmentYearMaster where iToDate=132580127)
