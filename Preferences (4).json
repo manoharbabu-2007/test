@@ -1,0 +1,48 @@
+{
+  "PayFrequencyDS": {
+    "payFrequencyDetails": {
+      "bStartDate": 1,
+      "iWorkingDays": 1,
+      "iMonthEndDate": 1,
+      "iCutOffDay": "28",
+      "sName": null,
+      "sCode": null
+    }
+  },
+  "ListAPIPreferencesDS": {
+    "APIPreferencesDS": [
+      {
+        "ComponentsDS": {
+          "sName": "vijay_deductions",
+          "iType": 3
+        },
+        "DeductionDS": {
+          "sName": "Default_Deductions",
+          "sDescription": "Deductions",
+          "IsDefault": "true",
+          "list_Deduction_DetailsDS": [
+            {
+              "Deduction_DetailsDS": {
+                "select": "vijay_deductions",
+                "bIsDateRestriction": true,
+                "iCalculationFrequency": 0,
+                "iCalculationType": "1",
+                "iEvaluteSiteType": 1,
+                "iEmpStatus": [
+                  0
+                ],
+                "iArrear": 1,
+                "iLastMonthAdjustments": 1,
+                "iMidMonthAdjustments": 1,
+                "iRounding": 0,
+                "iNoOfDigigtsRadio": 1,
+                "fRoundingValue": 0,
+                "iRoundingTo": 0
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
