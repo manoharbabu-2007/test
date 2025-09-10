@@ -1,0 +1,47 @@
+[2025-03-26 11:16:40] [ERROR] [RollingLogFile:76] - Company: Vijay_HCM X-9101)  [5V0]; @D:\HCM\Focus.HRMS.Service\MongoDBService.cs(GetConnection)#134; Message:Error in Mongodb, Error in Mongodb;LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
+[2025-03-26 11:16:40] [ERROR] [RollingLogFile:76] - Company: Vijay_HCM X-9101)  [5V0]; @D:\HCM\Focus.HRMS.Service\MongoDBService.cs(FindAll)#375; Message:Error in Mongodb, Error in Mongodb;LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
+[2025-03-26 11:16:40] [ERROR] [RollingLogFile:98] - Company: Vijay_HCM X-9101)  [5V0]; Error in Mongodb;LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
+System.Exception: Error in Mongodb
+   at Focus.HRMS.Service.MongoDBService.GetConnection() in D:\HCM\Focus.HRMS.Service\MongoDBService.cs:line 135
+   at Focus.HRMS.Service.MongoDBService.FindAll(IRequestMessage data) in D:\HCM\Focus.HRMS.Service\MongoDBService.cs:line 376
+   at Focus.HRMS.UI.Models.PopEvalutionModel.Load() in D:\HCM\Focus.Web.Focus8\branches\Areas\HRMS\Models\PopEvalutionModel.cs:line 76
+[2025-03-26 11:16:40] [ERROR] [RollingLogFile:76] - Company: Vijay_HCM X-9101)  [5V0]; @D:\HCM\Focus.HRMS.Repository\CommonMethodsRepository.cs(GetSQLQueryRowsValueList)#621; Message:Invalid column name 'iCreatedBy'.
+Invalid column name 'iCreatedDate'.
+Invalid column name 'iModifiedBy'.
+Invalid column name 'iModifiedDate'.
+Invalid column name 'iApprovalStatus'. SQL Query : declare @sQuery varchar(max)
+            set @sQuery = ''
+            select @sQuery = 'select iCreatedBy,iCreatedDate,iModifiedBy,iModifiedDate,iApprovalStatus from ' + mt.sTableName + ' where '+prim.sPrimaryKey+'=63' from cPay_ModuleTables mt
+			inner join cPay_TablePrimarykeys prim on  mt.sTableName=prim.sTableName where iTypeId=6035 and bMainTable=1
+            EXECUTE(@sQuery);LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
+[2025-03-26 11:34:34] [ERROR] [RollingLogFile:76] - Company: Vijay_HCM X-9101)  [5V0]; @D:\HCM\Focus.HRMS.Repository\CommonMethodsRepository.cs(GetSQLQueryRowsValueList)#621; Message:Invalid column name 'iCreatedBy'.
+Invalid column name 'iCreatedDate'.
+Invalid column name 'iModifiedBy'.
+Invalid column name 'iModifiedDate'.
+Invalid column name 'iApprovalStatus'. SQL Query : declare @sQuery varchar(max)
+            set @sQuery = ''
+            select @sQuery = 'select iCreatedBy,iCreatedDate,iModifiedBy,iModifiedDate,iApprovalStatus from ' + mt.sTableName + ' where '+prim.sPrimaryKey+'=63' from cPay_ModuleTables mt
+			inner join cPay_TablePrimarykeys prim on  mt.sTableName=prim.sTableName where iTypeId=6035 and bMainTable=1
+            EXECUTE(@sQuery);LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
+[2025-03-26 11:39:33] [ERROR] [RollingLogFile:76] - Company: Vijay_HCM X-9101)  [5V0]; @D:\HCM\Focus.HRMS.Repository\CommonMethodsRepository.cs(GetSQLQueryRowsValueList)#621; Message:Invalid column name 'iCreatedBy'.
+Invalid column name 'iCreatedDate'.
+Invalid column name 'iModifiedBy'.
+Invalid column name 'iModifiedDate'.
+Invalid column name 'iApprovalStatus'. SQL Query : declare @sQuery varchar(max)
+            set @sQuery = ''
+            select @sQuery = 'select iCreatedBy,iCreatedDate,iModifiedBy,iModifiedDate,iApprovalStatus from ' + mt.sTableName + ' where '+prim.sPrimaryKey+'=63' from cPay_ModuleTables mt
+			inner join cPay_TablePrimarykeys prim on  mt.sTableName=prim.sTableName where iTypeId=6035 and bMainTable=1
+            EXECUTE(@sQuery);LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
+[2025-03-26 12:05:27] [ERROR] [RollingLogFile:76] - Company: Vijay_HCM X-9101)  [5V0]; @D:\HCM\Focus.HRMS.Repository\CommonMethodsRepository.cs(GetSQLQueryRowsValueList)#621; Message:Invalid column name 'sDocNo'. SQL Query : 
+                select mt.iCreatedDate , mt.iModifiedDate ,
+                mt.iApprovalStatus
+                ,IIF(mt.iCreatedBy>0,el.sName,'su')  sCreatedBy
+                ,IIF(mt.iModifiedBy>0,el1.sName,'su') sModifiedBy,mt.iApprovedBy,mt.sDocNo DocNo
+                ,IIF(len(mt.iCreatedDate) > 9,dbo.fCore_IntToDateTime(mt.iCreatedDate),dbo.IntToDate(mt.iCreatedDate)) sCreatedDate
+                ,IIF(len(mt.iModifiedDate) > 9,dbo.fCore_IntToDateTime(mt.iModifiedDate),dbo.IntToDate(mt.iModifiedDate)) sModifiedDate
+                from tPay_InterviewTimings mt left join mPay_Employee m on mt.iCreatedBy=m.iMasterId
+                left join mPay_EmployeeLanguage el on m.iMasterId=el.iMasterId and el.iLanguageId=0
+                left join mPay_Employee m1 on mt.iModifiedBy=m1.iMasterId
+                left join mPay_EmployeeLanguage el1 on m1.iMasterId=el1.iMasterId and el1.iLanguageId=0
+                              
+                where mt.iTransId=0;LicenseId: 34003; Product Type: HCM-X; PublicIp: 192.168.3.36;
